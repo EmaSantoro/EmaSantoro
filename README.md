@@ -5,19 +5,10 @@
 
 ---
 
-## 🚀 About Me  
-
 🎓 **Electrical Technician & Information Systems Engineering Student**  
 🔹 Passionate about technology, innovation, and problem-solving.  
 
-🛠️ **Skills & Experience:**  
-- 🎨 **3D Design & Printing:** Extensive knowledge in modeling and part manufacturing.  
-- 🏢 **Entrepreneurship:** Owner of a 3D-printed solutions business.  
-- 🔌 **Electronics:** Basic knowledge applied to hardware development.  
-- 🤝 **Teamwork:** I thrive in collaborative environments and enjoy working with others to achieve common goals.  
-- 🏀 **Sports & Competition:** I play basketball in a federated team, combining discipline, strategy, and teamwork.  
 
-🌎 Always looking for new challenges and opportunities to continue growing.  
 
 ---
 
@@ -39,14 +30,17 @@
    - 📐 **Logical**  
    - 🔁 **Functional**  
 
+
 💻 **Programming Languages:**  
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-9C4221?style=for-the-badge&logo=prolog&logoColor=white)
-![Wollok](https://img.shields.io/badge/Wollok-FFA500?style=for-the-badge)
-
+![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)
+![MYSQL](https://img.shields.io/badge/SQL-%234479A1.svg?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ---
 
 ## 📫 Contact  
